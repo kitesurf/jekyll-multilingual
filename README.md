@@ -90,3 +90,4 @@ Full credit should go to the [Jekyll Multiple Languages Plugin](https://github.c
 ## Contact
 
 Feel free to ask for help, if you encounter any issues.
+Just a test how it works to edit something mobile! 
